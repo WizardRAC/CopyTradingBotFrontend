@@ -1,0 +1,15 @@
+.wallet-button {
+    background-color: #fff;
+    color: #000;
+    font-weight: bold;
+    border-radius: 9999px;
+    border: 1px solid #fff;
+    font-size: 15px;
+    transition: all 0.3s;
+  }
+  
+  .wallet-button:hover {
+    background-color: transparent;
+    color: #fff;
+  }
+  
